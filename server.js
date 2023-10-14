@@ -1,7 +1,7 @@
 const express = require('express')
 const app = express()
 const PORT = 5500
-const ConnectDB = require('./db')
+const ConnectDB = require('./.env/db')
 
 
 connectDB()
