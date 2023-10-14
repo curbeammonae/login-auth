@@ -1,1 +1,2 @@
 node_modules
+remoteDB = 'mongodb+srv://curbeammonae:mongodb331@cluster0.9rwwbvu.mongodb.net/?retryWrites=true&w=majority'
